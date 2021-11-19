@@ -2,15 +2,7 @@
 <html>
 <head>
     <style>
-        body{
-            background:blue grey;
-        }
         
-        }
-        /* table, tr, td{ */
-            border: 2px solid black;
-            
-        }
         table{
             
             height: 500px;
@@ -97,16 +89,7 @@
         ?>
         
     </table>
-    <span class ='spanv'>
-        <span>A</span>
-        <span>B</span>
-        <span>C</span>
-        <span>D</span>
-        <span>E</span>
-        <span>F</span>
-        <span>G</span>
-        <span>H</span>
-    </span>
+   
     
 </body>
 </html>
